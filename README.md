@@ -42,6 +42,10 @@ OpenCV2 Python Tutorials For Beginners
         - [image.py](basics/images/image.py)
     - [shapes](basics/shapes)
         - [shapes.py](basics/shapes/shapes.py)
-    - [webcam](basics/webcam/webcam.py)
+    - [webcam](basics/webcam)
         - [webcam.py](basics/webcam/webcam.py)
         - [canny-webcam.py](basics/webcam/canny-webcam.py)
+
+- [trackbar](trackbar)
+    - [threshold-trackbar.py](trackbar/threshold-trackbar.py)
+    - [hsv-trackbar.py](trackbar/hsv-trackbar.py)
